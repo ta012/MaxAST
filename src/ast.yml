@@ -81,4 +81,3 @@ dependencies:
     - werkzeug==2.3.4
     - wget==3.2
     - zipp==3.4.1
-prefix: /vol/research/fmodel_av/tony/anaconda3/envs/ast
