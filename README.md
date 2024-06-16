@@ -24,7 +24,7 @@ Since the AudioSet data is downloaded from YouTube directly, videos get deleted 
 Prepare data files as mentioned in [AST](https://github.com/YuanGongND/ast.git)
 
 #### Validation 
-We have provided the best model. Please download the [model weight](https://drive.google.com/file/d/1U3Esc7Ftn-wyCAsg4bSAws_bGVhNAFAH/view?usp=sharing) and keep it in `pretrained_models/audioset_fullset/`. 
+We have provided the best model. Please download the [model weight](https://drive.google.com/file/d/10qB6ByUooMLMGUv2B2nWEstpEs3fgTii/view?usp=sharing) and keep it in `pretrained_models/audioset_fullset/`. 
 
 You can validate the model performance on your AudioSet evaluation data as follows,
 ```
